@@ -1162,7 +1162,7 @@ section {
 .university {
   height: 180px;
   margin-top: 10px;
-  background-image: url('../img/Wrocław\ University.png');
+  background-image: url('../img/university.png');
   background-position: center;
   background-blend-mode: lighten;
   display: flex;
